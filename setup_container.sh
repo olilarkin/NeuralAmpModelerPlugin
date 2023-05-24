@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 # This script initializes the cloned iPlug2OOS repo, downloading dependencies, and tools
 
