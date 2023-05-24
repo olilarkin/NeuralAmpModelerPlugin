@@ -13,4 +13,4 @@ cd ../../..
 echo "Downloading iPlug2 prebuilt libs..."
 cd iPlug2/Dependencies/
 ./download-prebuilt-libs.sh
-cd ../..
+cd ../..#
